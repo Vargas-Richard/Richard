@@ -1,0 +1,10 @@
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\bin\Debug\Vargas-Richard.exe.config
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\bin\Debug\Vargas-Richard.exe
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\bin\Debug\Vargas-Richard.pdb
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas_Richard.Form1.resources
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas_Richard.Properties.Resources.resources
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas-Richard.csproj.GenerateResource.Cache
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas-Richard.exe
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas-Richard.pdb
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas_Richard.Form2.resources
+c:\users\xpertech\onedrive\documents\visual studio 2012\Projects\Vargas-Richard\Vargas-Richard\obj\Debug\Vargas-Richard.csprojResolveAssemblyReference.cache
